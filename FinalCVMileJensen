@@ -1,0 +1,131 @@
+<!DOCTYPE
+
+<html xml:lang="es" lang="es">
+
+<head>
+     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+     <title>Cv RubyGraham</title>
+
+     <script src="https://kit.fontawesome.com/65686eb1bf.js" crossorigin="anonymous"></script>
+     
+     <link rel="stylesheet" href="https://fonts.google.com/specimen/Lora?query=Lora"> 
+
+     <style type="text/css">
+        * { margin: 0; padding: 0; }
+        body { font-family: 16px Lora,Serif; line-height: 24px; background: url(https://static.vecteezy.com/ti/vetor-gratis/p1/4683947-lavanda-seamless-pattern-with-water-stains-and-polygonal-line-triangulos-infinito-fundo-vetor.jpg); }
+        img { border-radius: 8px; }
+        .clear { clear: both; }
+        #page-wrap { width: 800px; margin: 40px auto 60px; }
+        #pic { float: right; margin: -30px 0 0 0; }
+        h1 { margin: 0 0 16px 0; padding: 0 0 16px 0; font-size: 42px; font-weight: bold; letter-spacing: -2px; border-bottom: 1px solid #999; color: rgb(34, 2, 85)}
+        h2 { font-size: 20px; margin: 0 0 6px 0; position: relative; color: rgb(49, 5, 90) }
+        h2 span { position: absolute; bottom: 0; right: 0; font-style: italic; font-family: Georgia, Serif; font-size: 16px; color: #999; font-weight: normal; }
+        p { margin: 0 0 16px 0; }
+        a { color: #a200ff; text-decoration: none; border-bottom: 1px dotted #999999; }
+        a:hover { border-bottom-style: solid; color: black; }
+        ul { margin: 0 0 32px 17px; }
+        #objective { width: 500px; float: left; }
+        #objective p { font-family: Georgia, Serif; font-style: italic; color: #666; }
+        dt { font-style: italic; font-weight: bold; font-size: 18px; text-align: right; padding: 0 26px 0 0; width: 150px; float: left; height: 100px; border-right: 1px solid #999;  }
+        dd { width: 600px; float: right; }
+        dd.clear { float: none; margin: 0; height: 15px; }
+     </style>
+</head>
+
+<body>
+
+    <div id="page-wrap">
+    
+        <img src="https://us.123rf.com/450wm/peopleimages12/peopleimages122203/peopleimages12220312584/183412466-feminidad-impecable-retrato-de-una-bella-joven-en-estudio.jpg?ver=6" width="270px" height="400px" alt="RubyGraham" id="pic" />
+    
+        <div id="contact-info" class="vcard">
+        
+            <!-- Microformatos -->
+        
+            <h1 class="fn">Ruby Graham</h1> 
+        
+            <p>
+              <i class="fa-solid fa-phone"></i> Telefono: <span class="tel">+54 011 908098</span><br /> 
+              <br>
+              <i class="fa-solid fa-envelope"></i> E-mail: <a class="email" href="rubygraham@gmail.com">rubygraham@gmail.com</a>
+              <br>
+            </p>
+        </div>
+                
+        <div id="intro">
+            <p>
+              Mi experiencia en este mundillo está marcada por todos los increíbles seres humanos que me encontré en cada área en la que me desenvolví. <br>
+              Desde directores, camarógrafos, coreógrafos, artistas plásticos, colegas bailarines y actores, quienes me nutrieron con sus previos conocimientos, enriqueciendo cada pequeña colaboración realizada a su lado. </p>
+            </p>
+        </div>
+        
+        <div class="clear"></div>
+        
+        <dl>
+            <dd class="clear"></dd>
+            
+            <dt>Educación</dt>
+            <dd>
+                <h2>Escuela de Artes Escenicas "LioMio" Nº 69</h2>
+                <p><strong>Finalización:</strong> 2013<br>
+                   <strong>Licenciatura:</strong> 2018<br>
+
+                   <h2>Escuela de danza "Tapa Tapa Tapa" Nº 18</h2>
+                   <strong>Finalización:</strong> 2020</p>
+            </dd>
+            
+            <dd class="clear"></dd>
+            
+            <dt>Reconocimientos</dt>
+            <dd>
+                <h2>Muestra Nacional de Cine XII</h2>
+                <p>Actriz Revelacion del 2009 por "No me extrañes".</p>
+                
+                <h2>Festival de teatro "Dramaz" Cuarta edición</h2>
+                <p>Premio/reconocimiento para la compañia "todas juntas" por "Historias en la cercel", 2017.</p>
+            </dd>
+            
+            <dd class="clear"></dd>
+            
+            <dt>Experiencia</dt>
+            <dd>
+                <ul>
+                    <li><h2>Teatro:</h2> Bailarina, "Lila chilla", 2008. Monologo 1 y 3, "Historias en la carcel", 2017</li>
+                    <li><h2>Tv:</h2> Principal, serie "Todos los hijos de Rio", 2000. Secundario, cortometraje "Yo lo se y tu?", 2015.</li>
+                    <li><h2>Cine:</h2> Extra en escena escolar, "Las niñas no lloran", 2002. Interes romantico secundario, "No me extrañes", 2009. Primer victima, "Los misterios de Pomodoro", 2016.</li>
+                    <li><h2>Experimental:</h2> Performance "los colores del alma" en ArteBA, 2007. Muestra de expresion corporal en "festival de arte contemporaneo", 2013.</li>
+                </ul>
+            </dd>
+            
+            <dd class="clear"></dd>
+            
+            <dt>Extras</dt>
+             <dd>
+               <ul>
+                 <li><h2>Idiomas:</h2> Castellano (nativo), Portugues (intermedio), Italiano (fluido) y Frances (intermedio).</li>
+                 <li><h2>Aptitudes:</h2> Capacidad para la improvisación, perfil dramatico, gran iniciativa y energia.</li>
+                 <li><h2>Danza:</h2> Contemporaneo, jazz, salón y clasico.</li>
+                 <li><h2>Rango vocal:</h2> Soprano, en entrenamiento.</li>
+               </ul> 
+              </dd>
+            
+            <dd class="clear"></dd>
+            
+            <dt>Personal</dt>
+             <dd>
+               <li>No tatuajes visibles.</li>
+               <li>Cabello castaño claro, dispuesta a cambiar de color si es necesario.</li>
+               <li>Ojos color celeste, he utilizado lentes de contacto en ocaciones necesarias. No utilizo anteojos.</li>
+             </dd>
+            
+            <dd class="clear"></dd>
+        </dl>
+        
+        <div class="clear"></div>
+    
+    </div>
+
+</body>
+
+</html>
